@@ -1,0 +1,12 @@
+rootProject.ext.compileSdkVersion = 29
+rootProject.ext.minSdkVersion = 21
+rootProject.ext.targetSdkVersion = 29
+
+rootProject.ext.deps = [
+        // android
+        androidAppCompat        : "androidx.appcompat:appcompat:1.0.2",
+        androidKTX              : "androidx.core:core-ktx:1.0.2",
+        androidRecyclerView     : "androidx.recyclerview:recyclerview:1.0.0",
+
+]
+
