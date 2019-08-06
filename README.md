@@ -1,4 +1,4 @@
-Snowball Android Toolbox
+Snowball Android Butler
 ============
 
 A butler helps get the application context everywhere and separates the startup process.
