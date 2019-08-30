@@ -1,4 +1,4 @@
-Snowball Android Butler
+Snowball Android Butler <br> [ ![Download](https://api.bintray.com/packages/aquarids/maven/butler/images/download.svg?version=0.1.0) ](https://bintray.com/aquarids/maven/butler/0.1.0/link)
 ============
 
 A butler helps get the application context everywhere and separates the startup process.
@@ -6,9 +6,6 @@ A butler helps get the application context everywhere and separates the startup 
 ## Installation
 
 ```groovy
-repositories {
-    maven { url "https://xueqiumobile.bintray.com/maven" }
-}
 dependencies {
     // add dependency, please replace x.y.z to the latest version
     implementation "com.xueqiu.butler:butler:x.y.z"
