@@ -44,5 +44,5 @@ publish {
     artifactId = 'butler'
     publishVersion = VERSION
     desc = 'A butler helps get the application context everywhere and separates the startup process.'
-    website = 'https://github.com/snowman-team/Toolbox'
+    website = 'https://github.com/snowman-team/Butler'
 }
